@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Pavlo 👋
 
-<!--
-**pashawkola33/pashawkola33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybernetics student at ASE, based in Bucharest, Romania. I build backend services and automation tools, mostly in Java and TypeScript.
 
-Here are some ideas to get you started:
+**What I've been building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[JobPilot](https://github.com/pashawkola33/JobPilot) – a Java/Spring Boot service that ingests public job boards, scores vacancies against a candidate profile, and sends matches to Telegram.
+
+[ai-digest-bot](https://github.com/pashawkola33/ai-digest-bot) – a Telegram bot that digests tech news.
+
+[b2b-response-bot](https://github.com/pashawkola33/b2b-response-bot) – a Telegram response generator for B2B use cases.
+
+[nexusinvest](https://github.com/pashawkola33/nexusinvest) and [MeBuc](https://github.com/pashawkola33/MeBuc) – TypeScript projects.
+
+**Tech I work with**
+
+Java · Spring Boot · TypeScript · Python · PostgreSQL · Docker
+
+**Connect**
+
+[LinkedIn](https://www.linkedin.com/in/pavlo-sushkov-ba884133b)
