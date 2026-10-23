@@ -1,6 +1,6 @@
 # Pavlo Sushkov
 
-I'm studying Economic Informatics at ASE in Bucharest and applying for software engineering internships.
+I'm studying Economic Informatics at ASE in Bucharest.
 
 Most of my work so far has been in Java, PostgreSQL and TypeScript. Here are three projects I've been working on.
 
