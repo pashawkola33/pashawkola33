@@ -1,24 +1,30 @@
 # Pavlo Sushkov
 
-I'm an Economic Informatics student at ASE in Bucharest. I mostly work with Java and PostgreSQL on the backend, and TypeScript for web and mobile apps.
+I'm studying Economic Informatics at ASE in Bucharest and applying for software engineering internships.
 
-## Selected projects
+Most of my work so far has been in Java, PostgreSQL and TypeScript. Here are three projects I've been working on.
+
+## Projects
 
 ### [JobPilot](https://github.com/pashawkola33/JobPilot)
-Java · Spring Boot · PostgreSQL · Docker
+*Java 21 · Spring Boot · PostgreSQL · Docker*
 
-A job-search service that collects and deduplicates listings from public job boards, matches them to search preferences, and sends updates through Telegram. I'm working on candidate-specific accounts, notification delivery and recovery testing for its multi-user version. The live deployment is still private.
+A job-search service that collects listings from public hiring platforms, removes duplicates, matches jobs to candidate preferences and sends updates through Telegram.
+
+For the multi-user version, I've worked on account isolation, notification delivery, database migrations and recovery testing. The Azure deployment is still private and runs the earlier single-user version.
 
 ### [MeBuc](https://github.com/pashawkola33/MeBuc)
-TypeScript · React Native · Expo
+*TypeScript · React Native · Expo*
 
-An offline-first route planner for the Bucharest Metro, with transfer-aware journeys, an interactive network map and support for Romanian, English and Russian.
+An offline-first route planner for the Bucharest Metro. It calculates journeys across transfers, displays an interactive network map and supports Romanian, English and Russian.
 
 ### [nexusinvest](https://github.com/pashawkola33/nexusinvest)
-Java · Spring Boot · React · TypeScript
+*Java · Spring Boot · React · TypeScript*
 
-An investment-platform simulation with market data, portfolio tracking and trading workflows.
+An investment-platform simulation with a Java backend and a web interface for market data, portfolios and trading workflows.
 
-## Contact
+## Technologies
+
+Java · SQL · PostgreSQL · TypeScript · React · Python · Docker
 
 [LinkedIn](https://www.linkedin.com/in/pavlo-sushkov-ba884133b)
